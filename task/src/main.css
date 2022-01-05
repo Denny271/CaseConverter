@@ -1,0 +1,29 @@
+html{
+
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    margin: 4px;
+    background-color: white;
+}
+h1{
+    margin: 5px;
+}
+#area{
+    resize: none;
+    width: 482px;
+    height: 250px;
+    margin: 5px;
+}
+.butt{
+    display: flex;
+    flex-direction: row;
+    font-size: 10px;
+    margin-left: 5px;
+}
+.button{
+    background-color: blueviolet;
+    margin-right: 10px;
+
+}
